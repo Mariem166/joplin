@@ -251,7 +251,7 @@ msgstr "Barre latérale"
 #: packages/app-desktop/gui/MenuBar.js:614
 #: packages/app-desktop/gui/NoteList/commands/focusElementNoteList.js:18
 msgid "Focus"
-msgstr "Naviguer"
+msgstr "concentrer "
 
 #: packages/app-desktop/gui/StatusScreen/StatusScreen.js:26
 msgid "Please select where the sync status should be exported to"
@@ -4081,7 +4081,7 @@ msgstr "La note n'est pas une tâche : \"%s\""
 #~ msgstr "Certains objets ne peuvent être synchronisés."
 
 #~ msgid "Show all"
-#~ msgstr "Afficher tous"
+#~ msgstr "Afficher tout"
 
 #~ msgid "Errors only"
 #~ msgstr "Erreurs seulement"
@@ -4402,10 +4402,10 @@ msgstr "La note n'est pas une tâche : \"%s\""
 #~ msgstr "Filtre des tâches"
 
 #~ msgid "Non-completed and recently completed ones"
-#~ msgstr "Tâches non-complétées et récentes"
+#~ msgstr "Tâches non-finies et récentes"
 
 #~ msgid "Non-completed ones only"
-#~ msgstr "Tâches complétées seulement"
+#~ msgstr "Tâches finies seulement"
 
 #, fuzzy
 #~ msgid "Delete a note"
@@ -4416,7 +4416,7 @@ msgstr "La note n'est pas une tâche : \"%s\""
 #~ msgstr "Quitter le logiciel."
 
 #~ msgid "Done editing."
-#~ msgstr "Edition terminée."
+#~ msgstr "modification terminée."
 
 #~ msgid "Last error: %s (stacktrace in log)."
 #~ msgstr "Dernière erreur : %s (Plus d'information dans le journal d'erreurs)"
@@ -4458,7 +4458,7 @@ msgstr "La note n'est pas une tâche : \"%s\""
 #~ msgstr "Ce carnet n'existe pas : \"%s\". Le créer ?"
 
 #~ msgid "Usage: --profile <dir-path>"
-#~ msgstr "Utilisation: --profile <chemin>"
+#~ msgstr "Utilisation: --profil <chemin>"
 
 #~ msgid "Usage: --env <dev|prod>"
 #~ msgstr "Utilisation : --env <dev|prod>"
@@ -4470,16 +4470,16 @@ msgstr "La note n'est pas une tâche : \"%s\""
 #~ msgstr "config [nom] [valeur]"
 
 #~ msgid "cp <pattern> [notebook]"
-#~ msgstr "cp <nom> [carnet]"
+#~ msgstr "cp <modele> [carnet]"
 
 #~ msgid "edit <title>"
-#~ msgstr "edit <titre>"
+#~ msgstr "modifier <titre>"
 
 #~ msgid "import-enex <file> [notebook]"
 #~ msgstr "import-enex <fichier> [carnet]"
 
 #~ msgid "ls [pattern]"
-#~ msgstr "ls [motif]"
+#~ msgstr "ls [modele]"
 
 #~ msgid "mkbook <notebook>"
 #~ msgstr "mkbook <carnet>"
@@ -4503,11 +4503,11 @@ msgstr "La note n'est pas une tâche : \"%s\""
 
 #, fuzzy
 #~ msgid "use <notebook>"
-#~ msgstr "Nouveau carnet"
+#~ msgstr "utilisation <carnet>"
 
 #~ msgid "Synchronizing with directory \"%s\""
 #~ msgstr "Synchronisation avec dossier \"%s\""
 
 #, fuzzy
 #~ msgid "Invalid command. Showing help:"
-#~ msgstr "Commande invalie : \"%s\""
+#~ msgstr "Commande invalide : \"%s\""
